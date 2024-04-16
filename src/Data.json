@@ -1,0 +1,9 @@
+{"data":[
+    {"id":1,"name":"Matthew","des":"Front-end Developer","age":28,"city":"CA","imgname":"matt.png"},
+    {"id":2,"name":"John","des":"Full-Stack Developer","age":38, "city":"CA","imgname":"Timmy.png"},
+    {"id":3,"name":"Sia","des":"SDET","age":18, "city":"CA","imgname":"matt.png"},
+    {"id":4,"name":"Isha","des":"Data-Analyst","age":48, "city":"CA","imgname":"matt.png"},
+    {"id":5,"name":"Pablo","des":"It Support","age":18, "city":"CA","imgname":"Timmy.png"},
+    {"id":6,"name":"Sameer","des":"Full-Sack Developer","age":40, "city":"CA", "imgname":"matt.png"}
+    ]
+}
